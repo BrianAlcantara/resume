@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
 
-TITLE: Brian Alcantara
+title: Brian Alcantara
 #LOGO: /assets/profile.png
 #DESCRIPTION: 
-SHOW_DOWNLOADS: False
+show_downloads: False
+theme: jekyll-theme-minimal
 
