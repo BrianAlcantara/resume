@@ -1,7 +1,9 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 TITLE: Brian Alcantara
 #LOGO: /assets/profile.png
 #DESCRIPTION: 
 SHOW_DOWNLOADS: False
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+
