@@ -23,8 +23,7 @@ _Japan spouse visa eligible, do not need visa sponsorship for work in Japan. Can
 • **Product Owner** using Agile Scrum framework providing approval for sprints related to the Salesforce migration team transitioning from Microsoft Dynamics to Salesforce.
 
 
-• 5 Years work experience in Japan. 2023年12月日本語能力試験N2結果待ち。
-
+• 5 Years work experience in Japan. 
 
 ## Key Competencies:
 
