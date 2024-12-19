@@ -114,6 +114,7 @@ section h2 {
 /* Certifications Section */
 .certifications p {
     font-size: 1.1em;
+    font-weight: bold;
     color: #555;
 }
 
