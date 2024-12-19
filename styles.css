@@ -15,7 +15,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    background: linear-gradient(to right, #4682B4 0%, #708090 100%);
     color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -43,7 +43,7 @@ section {
 }
 
 section h2 {
-    color: #6a11cb;
+    color: #4682B4;
     margin-bottom: 10px;
 }
 
