@@ -111,6 +111,12 @@ section h2 {
     color: #555;
 }
 
+/* Certifications Section */
+.certifications p {
+    font-size: 1.1em;
+    color: #555;
+}
+
 /* Footer */
 footer {
     text-align: center;
