@@ -139,3 +139,8 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+h3 i, h3 em, h3 .italic-text {
+    font-style: italic;
+}
+
