@@ -54,6 +54,40 @@ section h2 {
     color: #666;
 }
 
+/* Expertise Section */
+.expertise {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.expertise h2 {
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #4682B4;
+}
+
+.expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.expertise-grid div {
+    background: #e6f7ff;
+    border: 1px solid #b3d9ff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #005580;
+}
+
 /* Experience Section */
 .experience article {
     margin-bottom: 20px;
